@@ -1,0 +1,30 @@
+{
+  "name": "wjax",
+  "version": "0.1.0",
+  "authors": [
+    "InspiredJW <inspired.jw@gmail.com>"
+  ],
+  "description": "AJAX Wrapper with WebWorker Support",
+  "main": "wjax.js",
+  "keywords": [
+    "AJAX",
+    "xhr",
+    "async",
+    "webworker",
+    "browser",
+    "js",
+    "library"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "mocha": "~1.14.0",
+    "chai": "~1.8.1"
+  }
+}
